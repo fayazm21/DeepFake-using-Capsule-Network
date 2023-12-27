@@ -22,8 +22,8 @@ For an in-depth understanding of methodologies and results, please refer to the 
 ## Results Overview
 The project successfully showcases the effectiveness of different routing algorithms in capsule networks for deepfake detection. Future work includes converting this into a user interface-based detection engine.
 
-![snap1](results1.png)
-![snap1](results1.png)
-![snap1](results1.png)
-![snap1](results1.png)
-![snap1](results1.png)
+![snap1](table1.png)
+![snap2](table2.png)
+![snap3](table3.png)
+![snap4](table4.png)
+
